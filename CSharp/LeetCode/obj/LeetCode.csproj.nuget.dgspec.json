@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mygit\\LeetCode\\LeetCode\\LeetCode.csproj": {}
+    "D:\\mygit\\LeetCodeCarl\\CSharp\\LeetCode\\LeetCode.csproj": {}
   },
   "projects": {
-    "D:\\mygit\\LeetCode\\LeetCode\\LeetCode.csproj": {
+    "D:\\mygit\\LeetCodeCarl\\CSharp\\LeetCode\\LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mygit\\LeetCode\\LeetCode\\LeetCode.csproj",
+        "projectUniqueName": "D:\\mygit\\LeetCodeCarl\\CSharp\\LeetCode\\LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "D:\\mygit\\LeetCode\\LeetCode\\LeetCode.csproj",
+        "projectPath": "D:\\mygit\\LeetCodeCarl\\CSharp\\LeetCode\\LeetCode.csproj",
         "packagesPath": "C:\\Users\\phb\\.nuget\\packages\\",
-        "outputPath": "D:\\mygit\\LeetCode\\LeetCode\\obj\\",
+        "outputPath": "D:\\mygit\\LeetCodeCarl\\CSharp\\LeetCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

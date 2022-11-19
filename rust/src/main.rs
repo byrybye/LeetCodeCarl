@@ -22,8 +22,7 @@ pub fn search(nums: Vec<i32>, target: i32) -> i32 {
     let mut left:i32 = 0;
     let mut right:i32 = (nums.len() - 1) as i32;
     while left <= right {
-        let middle = (left + right) / 2;
-        print!("{}",middle);
+        let middle = (left + right) / 2;        
         if target < nums[middle as usize] {
             right = middle - 1;
         } else if target > nums[middle as usize] {

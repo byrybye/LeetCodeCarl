@@ -21,7 +21,6 @@ namespace LeetCode
                 }
             }
             return slow;
-
         }
     }
 }
