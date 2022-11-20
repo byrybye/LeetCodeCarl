@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mHg4tD8lyvrT1PZEDdX0sq13DQmv/JqR/psusv6e6LemjSQidxjiaR3j3sRxlAVd0I3Yqgeoy86nmvoWXK0GAQ==",
+  "dgSpecHash": "WxQhlM8Fp0iGd5k/1iKhyMsQ1UpKwul6SeaKwhh2ng81xJo4RYtD2ozt9EzV6/NL1PpArPTEdnGrjgbBfM7bFQ==",
   "success": true,
   "projectFilePath": "D:\\mygit\\LeetCodeCarl\\CSharp\\LeetCode\\LeetCode.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\phb\\.nuget\\packages\\microsoft.testplatform\\17.4.0\\microsoft.testplatform.17.4.0.nupkg.sha512",
+    "C:\\Users\\phb\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512",
+    "C:\\Users\\phb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

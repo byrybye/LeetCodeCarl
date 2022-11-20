@@ -28,3 +28,8 @@ D:\mygit\LeetCodeCarl\CSharp\LeetCode\obj\Debug\net6.0\refint\LeetCode.dll
 D:\mygit\LeetCodeCarl\CSharp\LeetCode\obj\Debug\net6.0\LeetCode.pdb
 D:\mygit\LeetCodeCarl\CSharp\LeetCode\obj\Debug\net6.0\LeetCode.genruntimeconfig.cache
 D:\mygit\LeetCodeCarl\CSharp\LeetCode\obj\Debug\net6.0\ref\LeetCode.dll
+D:\mygit\LeetCodeCarl\CSharp\LeetCode\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\mygit\LeetCodeCarl\CSharp\LeetCode\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\mygit\LeetCodeCarl\CSharp\LeetCode\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\mygit\LeetCodeCarl\CSharp\LeetCode\obj\Debug\net6.0\LeetCode.csproj.CopyComplete
+D:\mygit\LeetCodeCarl\CSharp\LeetCode\bin\Debug\net6.0\Newtonsoft.Json.dll
